@@ -7,4 +7,9 @@
 header{
   width: 100℅;
   background-color:#e069bf;
-  }
+  display: flex;
+  justify-content: space-around;
+}
+.logo-imagem{
+  width: 50px;
+  height: 50px;
