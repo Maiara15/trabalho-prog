@@ -1,1 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
 
+.logo-texto{
+    margin-left: 20px;
+    color: white;
+  }
